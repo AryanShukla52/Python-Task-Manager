@@ -1,4 +1,4 @@
-# PythonTaskManager
+# Python-Task-Manager
 This is a task manager program I created using Python. 
 Upon running the program, you are presented with a menu screen that allows you to choose between the options of:
 printing the task list, 
