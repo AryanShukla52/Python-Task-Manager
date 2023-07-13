@@ -9,7 +9,7 @@ This is a task manager program I created using Python. Upon running the program,
 >-Quitting the Program
   
   
-## Example of the Task Manager Menu
+## Task Manager Menu
     
   
 This is what the Task Manager Menu looks like when you run the program.
@@ -57,6 +57,23 @@ And once my task has been updated, I can once again print the list to see my upd
 ![image](https://github.com/AryanShukla52/Python-Task-Manager/assets/102696882/2c560cb7-612c-4e1c-b581-faabbf0b619f)
 
 ## Deleting Tasks
+
+After finishing my marathon, if I wanted to delete the task, all I would have to do is enter D or d and...
+
+![image](https://github.com/AryanShukla52/Python-Task-Manager/assets/102696882/61e0ac8c-29a7-47a0-9068-a79e38e4a3c4)
+
+## Show Incomplete Tasks
+
+If i want to see what tasks I have yet to complete, I just have to enter SI or si
+
+![image](https://github.com/AryanShukla52/Python-Task-Manager/assets/102696882/a0b74fd8-a33a-4652-a810-9d4dd8181842)
+
+
+## Show Completed Tasks
+
+And on the other hand, if I only want to see tasks I have completed I can enter SC or sc
+
+![image](https://github.com/AryanShukla52/Python-Task-Manager/assets/102696882/f06479f8-11fd-4470-8462-eb4358dc15d2)
 
 
   
