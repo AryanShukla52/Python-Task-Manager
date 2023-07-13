@@ -40,6 +40,25 @@ After my task has successfully been added, I can print my task list again to see
   
   
 ![image](https://github.com/AryanShukla52/Python-Task-Manager/assets/102696882/ce9c43d1-3c7d-4f19-83b5-5527760c89c7)
+
+
+## Updating Tasks
+
+  
+Now suppose a few months have passed and I finished my marathon. Well, I can select U or u and update my task to reflect that it has been completed
+
+
+![image](https://github.com/AryanShukla52/Python-Task-Manager/assets/102696882/d14df1d8-5d88-4fcd-8c1a-441d07615173)
+
+
+And once my task has been updated, I can once again print the list to see my update.
+
+
+![image](https://github.com/AryanShukla52/Python-Task-Manager/assets/102696882/2c560cb7-612c-4e1c-b581-faabbf0b619f)
+
+## Deleting Tasks
+
+
   
   
  
