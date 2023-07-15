@@ -64,7 +64,7 @@ After finishing my marathon, if I wanted to delete the task, all I would have to
 
 ## Show Incomplete Tasks
 
-If i want to see what tasks I have yet to complete, I just have to enter SI or si
+If I want to see what tasks I have yet to complete, I just have to enter SI or si
 
 ![image](https://github.com/AryanShukla52/Python-Task-Manager/assets/102696882/a0b74fd8-a33a-4652-a810-9d4dd8181842)
 
@@ -73,7 +73,23 @@ If i want to see what tasks I have yet to complete, I just have to enter SI or s
 
 And on the other hand, if I only want to see tasks I have completed I can enter SC or sc
 
-![image](https://github.com/AryanShukla52/Python-Task-Manager/assets/102696882/f06479f8-11fd-4470-8462-eb4358dc15d2)
+![image](https://github.com/AryanShukla52/Python-Task-Manager/assets/102696882/f06479f8-11fd-4470-8462-eb4358dc15d2)  
+
+
+## Sort Tasks by Priority
+
+If I wanted to see my task list organized from highest to lowest prior, I can enter SP or sp
+
+![image](https://github.com/AryanShukla52/Python-Task-Manager/assets/102696882/b0986737-b568-4ed7-84aa-8fdf3971cf74)
+
+## Sort Tasks by Deadline
+
+On the contrary, if I wanted to see my task list organized by deadline, from closest to furthest, I can enter SD or sd
+
+![image](https://github.com/AryanShukla52/Python-Task-Manager/assets/102696882/5698b776-e23d-4506-82fa-e3e3f0c7f382)
+
+
+
 
 
   
