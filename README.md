@@ -25,6 +25,8 @@ Here I have chosen to print my task list by selecting P or p, which will look li
   
   
 ![image](https://github.com/AryanShukla52/Python-Task-Manager/assets/102696882/7ba20f53-4f0d-477a-966b-725241269acc)
+
+
   
   
 ## Adding Tasks
@@ -87,6 +89,30 @@ If I wanted to see my task list organized from highest to lowest prior, I can en
 On the contrary, if I wanted to see my task list organized by deadline, from closest to furthest, I can enter SD or sd
 
 ![image](https://github.com/AryanShukla52/Python-Task-Manager/assets/102696882/5698b776-e23d-4506-82fa-e3e3f0c7f382)
+
+## Save Tasks  
+
+Now suppose I wanted to save my task list into a CSV file, all I would have to do is enter S or s and type in what I would like my CSV file to be named
+
+![image](https://github.com/AryanShukla52/Python-Task-Manager/assets/102696882/617fc035-67f1-44c9-ab75-eee260c1923b)  
+
+##  Load Tasks 
+
+Then, if I wanted to load tasks from a CSV file to create a new task list, all I would have to do is enter L or l and type in the name of the file
+
+![image](https://github.com/AryanShukla52/Python-Task-Manager/assets/102696882/004d711e-3aac-4313-9645-6c8e6b971d78)
+
+## Quit Program
+
+Lastly, once I am done using my Task Manager Program, I can shut it down by entering Q or q
+
+![image](https://github.com/AryanShukla52/Python-Task-Manager/assets/102696882/254ae45b-8d6e-403c-a144-39f04c5ea6dd)
+
+
+
+
+
+
 
 
 
