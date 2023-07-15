@@ -170,7 +170,7 @@ if __name__ == "__main__":
             result = os.path.isfile(load_name)
             if result == True:
                 print()
-                load_from_csv("my_csv.csv")
+                load_from_csv(load_name)
                 print()
                 print(f"Tasks succesfully loaded from {load_name}")
                 print()
