@@ -5,7 +5,7 @@ This is a task manager program I created using Python. Upon running the program,
 >-Adding, Updating, or Deleting a task  
 >-Showing Incomplete or Completed tasks  
 >-Sorting tasks by Priority or Due Date  
->-Saving or Loading tasks from a CSV file
+>-Saving or Loading tasks from a CSV file  
 >-Quitting the Program
   
   
