@@ -69,9 +69,26 @@ if __name__ == "__main__":
             task_fields = ["name", "description", "due date", "priority", "completed"]
             response = []
             for field in task_fields:
-                print(f"Enter the task {field}:")
-                value = input()
-                response.append(value)
+                if field == "name":
+                    print(f"Enter a task name between 3 and 15 characters:")
+                    value = input()
+                    response.append(value)
+                elif field == "description":
+                    print(f"Enter a Description:")
+                    value = input()
+                    response.append(value)
+                elif field == "due date":
+                    print(f"Enter a due date in the MM/DD/YYYY Format")
+                    value = input()
+                    response.append(value)
+                elif field == "priority":
+                    print(f"Enter a prioirty number 1-5, with 5 being the highest Priority")
+                    value = input()
+                    response.append(value)
+                elif field == "completed":
+                    print(f"Enter Yes or No on whether this task is completed or not")
+                    value = input()
+                    response.append(value)
             temp_dict = (create_task(task_fields, response))
             task_status = create_a_task(temp_dict['name'], temp_dict['description'], temp_dict['due date'], temp_dict['priority'], temp_dict['completed'])
             if task_status[0] == False:
